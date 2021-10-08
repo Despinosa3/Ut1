@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+	<HTML>
+
+
+
+
+
+		<form action="mailto:pepe@google.com" method=post" enctype="text/plain">
+			Escribe tu apellido:
+			<br>
+			<input type="text" name="Apellido">
+		</form>
+	</html>			
